@@ -6,4 +6,4 @@ Code was implemented in MATLAB R2019a.
 
 This is one sample results:
 
-![image](https://github.com/qiyan98/Droplet-image-analysis/blob/master/sample_gif.gif)
+![image](https://github.com/yunke-l/Droplet-image-analysis/blob/master/sample_gif.gif)
